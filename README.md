@@ -54,7 +54,7 @@ To use the web scraping methods with Selenium and Puppeteer, follow these steps:
 
 2. Navigate to the project directory:
   ```bash
-  cd RealTimeWebScrape
+   cd RealTimeWebScrape
 
 3. Choose either the Selenium or Puppeteer directory, depending on the method you want to use.
 
@@ -76,19 +76,8 @@ To use the web scraping methods with Selenium and Puppeteer, follow these steps:
 
 6. The script will initiate the web scraping process, and the scraped data will be saved or displayed as per the script implementation.
 
-## Contributing
 
-Contributions to the Medicine Data Web Scraping project are welcome. If you encounter any issues, have suggestions for improvements, or want to add more features, please open an issue in this repository. If you'd like to contribute code, please follow these guidelines:
 
-1. Fork the repository.
-
-2. Create a new branch for your feature or bug fix.
-
-3. Make your modifications.
-
-4. Commit and push your changes.
-
-5. Submit a pull request detailing your changes.
 
 
 
