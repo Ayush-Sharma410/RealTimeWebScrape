@@ -73,10 +73,11 @@ To use the web scraping methods with Selenium and Puppeteer, follow these steps:
   npm install puppeteer
  
 
-6. The script will initiate the web scraping process, and the scraped data will be saved or displayed as per the script implementation.
+6. The script will initiate the web scraping process, and the scraped data will be saved or displayed as per the script implementation
 
 
 
+Using Beautiful Soup : https://github.com/Ayush-Sharma410/Medlr
 
 
 
