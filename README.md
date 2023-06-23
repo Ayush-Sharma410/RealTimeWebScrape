@@ -63,7 +63,6 @@ To use the web scraping methods with Selenium and Puppeteer, follow these steps:
 5. Run the respective script using the following command:
 
 - For Selenium:
-
   ```bash
   pip install selenium
   
