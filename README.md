@@ -52,15 +52,15 @@ To use the web scraping methods with Selenium and Puppeteer, follow these steps:
    ```bash
    git clone https://github.com/Ayush-Sharma410/RealTimeWebScrape.git
 
-3. Navigate to the project directory:
-```bash
- cd RealTimeWebScrape
+2. Navigate to the project directory:
+  ```bash
+  cd RealTimeWebScrape
 
-5. Choose either the Selenium or Puppeteer directory, depending on the method you want to use.
+3. Choose either the Selenium or Puppeteer directory, depending on the method you want to use.
 
-6. Customize the web scraping scripts according to your requirements.
+4. Customize the web scraping scripts according to your requirements.
 
-7. Run the respective script using the following command:
+5. Run the respective script using the following command:
 
 - For Selenium:
 
